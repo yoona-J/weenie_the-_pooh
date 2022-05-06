@@ -1,3 +1,4 @@
-1학년 2학기에 진행한 프로젝트 입니다.
-</br>
-PROJECT NAME. weenie_the_pooh
+# key event game - weenie the pooh
+
+## This game is made in second symester, 2021.
+used: HTML, CSS, JS
